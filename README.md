@@ -9,7 +9,7 @@ This project analyzes **Ola ride-booking data** using **SQL queries, Power BI vi
 
 ### 🔹 Key Components:  
 - **SQL Queries:** Created **views** for structured data retrieval.  
-- **Power BI Dashboard:** Visualized **ride booking trends, customer ratings, payment methods, and cancellations**.  
+- **Power BI Dashboard:** Visualized **revenue, ride booking trends, customer ratings, payment methods, and cancellations**.  
 - **Advanced Excel:** Cleaned and processed the dataset before analysis.  
 
 ---
